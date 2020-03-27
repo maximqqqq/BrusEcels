@@ -33,7 +33,7 @@ public class App {
             ss.ShowAllStudentForSIS();
         }
         System.out.println("==================");
-        System.out.println("List Students born before year");
+        System.out.println("List Students was born before year");
         for (Student sss:student) {
             sss.findBethdey(1995);
         }
